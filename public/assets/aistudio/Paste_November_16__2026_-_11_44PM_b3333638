@@ -1,0 +1,1155 @@
+# MASTER PROMPT — FARMER SCHEME ASSISTANCE & INFORMATION PLATFORM
+
+Act as a senior full-stack web developer and UI/UX designer. Build a complete, professional, responsive website for my college mini project titled:
+
+**Farmer Scheme Assistance & Information Platform**
+
+
+---
+
+# 1. PROJECT INFORMATION
+
+**Project Name:** Farmer Scheme Assistance & Information Platform
+
+
+Create a centralized platform where farmers can:
+- Discover government agricultural schemes.
+- Understand scheme eligibility.
+- Learn about scheme benefits.
+- View required documents.
+- Understand application procedures.
+- Find official application links.
+- Get personalized scheme recommendations.
+- Learn about crops, soils, farm animals, and farming technologies.
+- Access information in English, Hindi, and Kannada.
+- Ask questions through an AI-powered chatbot.
+
+This is an independent student informational platform, not an official government website.
+
+# 2. WEBSITE DESIGN AND UI/UX REQUIREMENTS
+
+The website design must closely follow the layout and visual appearance of the reference screenshot provided by me.
+
+**IMPORTANT:** Do not use the previous minimal single-navbar design. Recreate the reference website's overall header structure, contact bar, branding section, navigation bar, and large image slider. Adapt it for the Farmer Scheme Assistance & Information Platform.
+
+Do not copy the reference website's company name, logos, contact details, or branding.
+
+## A. Website Colour Palette
+
+Use these colours throughout the website:
+
+- Primary dark green: #17613A
+- Secondary green: #207747
+- Orange accent: #F47721
+- White: #FFFFFF
+- Light background: #F5F8F5
+- Main text: #303030
+- Border: #E5E7EB
+
+The overall appearance should be professional, agricultural, clean, and trustworthy.
+
+## B. Top Contact Bar
+
+Create a thin, full-width dark-green contact bar at the very top, similar to the reference screenshot.
+
+**Left side:**
+- Phone icon and contact number.
+- Email icon and email address.
+
+**Right side:**
+- Facebook icon.
+- X/Twitter icon.
+- Instagram icon.
+- YouTube icon.
+- WhatsApp icon.
+
+Design:
+- Dark-green background.
+- White icons and text.
+- Small font size.
+- Proper horizontal spacing.
+- Vertically centered content.
+- Responsive layout for mobile.
+
+Use clearly identified placeholder contact details until actual details are provided.
+
+## C. Main Branding Header
+
+Below the contact bar, create a large white branding header.
+
+Follow the same three-part arrangement as the screenshot:
+
+**Left section:**
+- Project logo with an agricultural theme.
+- Use a custom logo containing crops, leaves, or a farmer.
+
+**Center section:**
+Display the project name prominently:
+
+FARMER SCHEME ASSISTANCE & INFORMATION PLATFORM
+
+Below it, display the Hindi title:
+
+किसान योजना सहायता एवं सूचना मंच
+
+Below the Hindi title, display:
+
+"Empowering Farmers Through Information and Technology"
+
+**Right section:**
+- Display a second agricultural-themed illustration or project symbol.
+- Use a farmer, crop, or farming-related visual.
+
+Design requirements:
+- White background.
+- Large centered project title.
+- Dark-green bold heading.
+- Orange accent for a small subtitle if appropriate.
+- Balanced spacing between both logos and the center title.
+- Logos should be clearly visible and properly sized.
+- Do not use official government emblems or misleading government branding.
+
+Desktop layout:
+- Logo on the left.
+- Project title in the center.
+- Agricultural illustration on the right.
+
+Mobile layout:
+- Stack the elements vertically.
+- Keep the project title readable.
+- Prevent logo and text overlap.
+
+## D. Main Navigation Bar
+
+Create a full-width dark-green navigation bar directly below the branding header.
+
+Follow the reference screenshot's horizontal navigation design.
+
+Navigation items:
+- Home
+- About Us
+- Government Schemes
+- Farming Information
+- Technologies
+- Contact
+- Language Selector
+- Login
+- Register
+
+Design requirements:
+- Dark-green background.
+- White navigation text.
+- Centered navigation items on desktop.
+- Proper spacing between links.
+- Dropdown arrows for dropdown menus.
+- Orange or lighter-green hover effect.
+- Smooth dropdown appearance.
+- Sticky navigation when scrolling.
+
+Dropdown menus:
+
+**About Us**
+- About Project
+- Objectives
+- Our Team
+
+**Government Schemes**
+- All Schemes
+- Central Government Schemes
+- Karnataka Government Schemes
+
+**Farming Information**
+- Crops
+- Soil Information
+- Farm Animals
+- Organic Farming
+- Inorganic Farming
+
+**Technologies**
+- Modern Farming
+- Irrigation Technologies
+- Agricultural Machinery
+
+**Language Selector**
+- English
+- Hindi
+- Kannada
+
+Mobile navigation:
+- Display a hamburger menu.
+- Open and close the navigation when clicked.
+- Make dropdowns touch-friendly.
+- Ensure all links remain accessible.
+
+## E. Large Homepage Hero Slider
+
+This is one of the most important design elements.
+
+Immediately below the navigation bar, create a large, full-width image slider similar to the reference screenshot.
+
+Use high-quality agricultural images such as:
+- Indian farmers working in green fields.
+- Agricultural land and crops.
+- Modern farming machinery.
+- Irrigation systems.
+- Crop cultivation.
+- Farmers using modern agricultural technology.
+
+Use three or more slides.
+
+Each slide must have:
+- Full-width background image.
+- Background image covering the entire slider area.
+- Dark transparent overlay over the image.
+- Centered text content.
+- Orange rounded welcome label.
+- Large white heading.
+- Short white description.
+- Navigation arrows on the left and right.
+- Slide indicators at the bottom.
+
+Example content for the first slide:
+
+Orange welcome label:
+
+WELCOME TO FARMER ASSISTANCE PORTAL
+
+Main heading:
+
+Empowering Farmers Through Government Schemes
+
+Description:
+
+Discover agricultural schemes, understand eligibility, explore benefits, and access useful farming information through one platform.
+
+Buttons:
+- Explore Government Schemes
+- Learn More
+
+Second slide:
+
+Heading:
+
+Discover Government Schemes for Farmers
+
+Description:
+
+Find useful information about government agricultural schemes, required documents, eligibility, and application procedures.
+
+Button:
+- Explore Schemes
+
+Third slide:
+
+Heading:
+
+Learn Modern and Sustainable Farming
+
+Description:
+
+Explore crop information, soil management, farming methods, and modern agricultural technologies.
+
+Button:
+- Explore Farming Information
+
+Slider functionality:
+- Left and right navigation arrows must work.
+- Automatic slide transition.
+- Manual slide navigation.
+- Bottom slide indicators.
+- Smooth transitions.
+- Pause automatic movement when the user interacts, where appropriate.
+
+The slider should be visually similar to the reference screenshot, including its dark image overlay and centered orange welcome label.
+
+Desktop hero height should be approximately 530–600px, adjusted to fit the screen.
+
+Mobile hero height should be approximately 420–500px, with appropriately smaller text and buttons.
+
+## F. Homepage Content Design
+
+Below the hero slider, use a clean white or light-green background for the remaining homepage sections.
+
+Create visually consistent sections for:
+
+1. Welcome to the platform.
+2. Search government schemes.
+3. Popular government schemes.
+4. Platform services.
+5. Agricultural information.
+6. How the platform works.
+7. About the project.
+8. Contact information.
+
+Use green section headings and orange highlights where appropriate.
+
+Cards should have:
+- White backgrounds.
+- Thin light-grey borders.
+- Small, subtle shadows only when needed.
+- Consistent spacing.
+- Simple agricultural icons.
+- Clear descriptions.
+- Professional buttons.
+
+Avoid excessive rounded corners and unnecessary visual effects.
+
+## G. Footer Design
+
+Create a full-width dark-green footer.
+
+Include:
+- Project name.
+- Short project description.
+- Quick navigation links.
+- Government scheme links.
+- Agricultural information links.
+- Contact details.
+- Social media icons.
+- Copyright information.
+
+Include this disclaimer:
+
+"This is an independent educational information platform. It is not an official government website. Please verify scheme information through the relevant official government portals."
+
+## H. Responsive Design
+
+The design must work properly on:
+
+- 360px mobile.
+- 390px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+
+Responsive requirements:
+- Contact bar must adapt to small screens.
+- Branding header must stack properly on mobile.
+- Logos must resize without distortion.
+- Navigation must use a working hamburger menu.
+- Hero slider must adapt to mobile dimensions.
+- Hero text must remain readable.
+- Buttons must fit smaller screens.
+- No horizontal scrolling.
+- No overlapping content.
+- No broken images.
+- All sections must maintain proper spacing.
+
+## I. Technical Design Requirements
+
+- Use reusable React components.
+- Use CSS Flexbox and Grid.
+- Use responsive media queries.
+- Use properly sized images.
+- Use `object-fit: cover` for hero background images.
+- Use `position: relative` and an overlay layer for readable hero text.
+- Use Lucide React or another consistent icon library.
+- Use accessible navigation and buttons.
+- Keep CSS organized and maintainable.
+- Avoid unnecessary animation libraries.
+
+Suggested components:
+
+- TopContactBar
+- MainHeader
+- ProjectLogo
+- Navbar
+- DropdownMenu
+- LanguageSelector
+- HeroSlider
+- HeroSlide
+- SectionTitle
+- SchemeCard
+- ServiceCard
+- Footer
+
+**MOST IMPORTANT:** The final desktop homepage must visually follow the uploaded reference screenshot's structure: thin green contact bar at the top, large white branding header with left and right visuals and centered title, dark-green horizontal navigation bar, and a large full-width agricultural image slider with a dark overlay and orange welcome label.
+
+Use the reference screenshot for the design only. Preserve all existing project modules, functionality, technology choices, database requirements, security requirements, and development phases from the rest of this prompt.
+
+# 2. TECHNOLOGY STACK
+
+Use the following technologies:
+
+**Frontend**
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+- React Router
+- Axios
+- i18next for multilingual support
+
+**Backend**
+- Python
+- Django
+- Django REST Framework
+
+**Database**
+- PostgreSQL
+
+**Development tools**
+- VS Code
+- Git and GitHub
+- Postman
+
+Use clean, reusable, well-organized code.
+
+# 3. WEBSITE DESIGN — FOLLOW THE REFERENCE SCREENSHOT
+
+The visual design is extremely important. The website should closely follow the reference screenshot's structure.
+
+Use a professional agricultural/government-inspired design.
+
+**Color palette**
+- Main dark green: #155C35
+- Secondary green: #1E7545
+- White: #FFFFFF
+- Orange accent: #F47721
+- Light background: #F5F8F5
+- Dark text: #26332B
+
+Avoid excessive gradients, unnecessary animations, oversized shadows, and complicated layouts.
+
+## A. Top contact bar
+
+Create a thin dark-green bar at the top of the website.
+
+Left side:
+- Phone icon and contact number.
+- Email icon and project email address.
+
+Right side:
+- Social media icons such as Facebook, Instagram, YouTube, and WhatsApp.
+
+Use sample contact details only if actual contact details are not provided. Clearly identify placeholders so they can be replaced later.
+
+Make this bar responsive. On mobile, hide or simplify some social icons if necessary.
+
+## B. Main branding header
+
+Below the contact bar, create a large white header similar to the screenshot.
+
+Layout:
+- Left: Project logo.
+- Center: Project title and subtitle.
+- Right: Agricultural-themed logo or illustration.
+
+Center content:
+
+**FARMER SCHEME ASSISTANCE & INFORMATION PLATFORM**
+
+**किसान योजना सहायता एवं सूचना मंच**
+
+Subtitle:
+
+"Empowering Farmers Through Information and Technology"
+
+Make the project title bold, dark green, and centered.
+
+Use an agricultural logo featuring crops, leaves, or a farmer. Create an original logo or use a suitable free-to-use icon. Do not use government emblems or another company's logo.
+
+On smaller screens, stack the logos and title neatly.
+
+## C. Navigation bar
+
+Create a full-width dark-green navigation bar below the branding header.
+
+Navigation items:
+- Home
+- About
+- Government Schemes
+- Agriculture Information
+- Farming Technologies
+- Contact
+- Language Selector
+
+Add dropdown menus where appropriate.
+
+Example dropdowns:
+
+About:
+- About Project
+- Objectives
+- Our Team
+
+Government Schemes:
+- All Schemes
+- Central Government Schemes
+- State Government Schemes
+
+Agriculture Information:
+- Crops
+- Soil Information
+- Farm Animals
+- Organic Farming
+- Inorganic Farming
+
+Language selector:
+- English
+- हिंदी
+- ಕನ್ನಡ
+
+Design requirements:
+- White navigation text.
+- Hover effect using a lighter green.
+- Smooth dropdown opening.
+- Sticky navigation on scrolling.
+- Mobile hamburger menu.
+- Proper spacing between navigation links.
+
+## D. Hero section / image slider
+
+This section should visually resemble the large image slider in the reference screenshot.
+
+Create a large, full-width hero slider below the navigation bar.
+
+Use agricultural images such as:
+- Indian farmers working in fields.
+- Green agricultural farms.
+- Modern farming equipment.
+- Crop cultivation.
+- Irrigation systems.
+- Agricultural technology.
+
+Use a dark transparent overlay over the background images so that text is readable.
+
+Hero content should include:
+
+Small orange rounded label:
+
+"WELCOME TO FARMER ASSISTANCE PORTAL"
+
+Main heading:
+
+"Empowering Farmers with Government Schemes & Agricultural Knowledge"
+
+Description:
+
+"Discover government schemes, check your eligibility, understand benefits, and access useful agricultural information in one place."
+
+Add two buttons:
+
+1. Explore Government Schemes
+2. Learn More
+
+Slider controls:
+- Left arrow.
+- Right arrow.
+- Slide indicators.
+- Automatic image transition.
+- Pause automatic movement when appropriate.
+
+Use three different slides with relevant agricultural images and different headings.
+
+Keep the orange welcome label similar to the reference screenshot.
+
+The hero section should be attractive, professional, and readable.
+
+# 4. HOME PAGE SECTIONS
+
+Below the hero slider, build these sections.
+
+## A. Welcome section
+
+Heading:
+
+"Welcome to Farmer Scheme Assistance & Information Platform"
+
+Description explaining how the platform helps farmers find government schemes and agricultural information.
+
+Add a suitable agricultural image.
+
+## B. Main services section
+
+Create attractive service cards for:
+
+1. Government Schemes
+2. Check Eligibility
+3. Scheme Recommendations
+4. Agriculture Information
+5. Farming Technologies
+6. AI Chatbot
+
+Each card should include:
+- Relevant icon.
+- Title.
+- Short description.
+- Explore button.
+
+Use green and white styling.
+
+## C. Government schemes section
+
+Display popular schemes in cards.
+
+Start with these schemes as research candidates:
+- PM-KISAN
+- Pradhan Mantri Fasal Bima Yojana (PMFBY)
+- Kisan Credit Card (KCC)
+- Soil Health Card Scheme
+- PM-KUSUM
+
+Each scheme card should contain:
+- Scheme name.
+- Short description.
+- Benefits.
+- Eligibility summary.
+- View Details button.
+- Official website link.
+
+Use verified information from official government sources. Do not invent eligibility requirements, benefit amounts, deadlines, or documents.
+
+Official starting links:
+- https://pmkisan.gov.in/
+- https://pmfby.gov.in/
+- https://www.myscheme.gov.in/
+- https://soilhealth.dac.gov.in/
+- https://pmkusum.mnre.gov.in/
+
+Clearly distinguish central and state schemes where applicable.
+
+## D. How it works section
+
+Show the following steps:
+
+1. Register or Login.
+2. Complete Farmer Profile.
+3. Enter Location and Farming Details.
+4. Explore Government Schemes.
+5. Check Eligibility.
+6. View Recommended Schemes.
+7. Read Benefits and Required Documents.
+8. Visit Official Application Website.
+
+Use a clean step-by-step visual layout.
+
+## E. Why choose our platform?
+
+Display:
+- Centralized scheme information.
+- Easy eligibility checking.
+- Personalized recommendations.
+- Multilingual support.
+- Agricultural learning resources.
+- AI chatbot assistance.
+
+## F. Agriculture information section
+
+Create cards for:
+- Crop Information.
+- Soil Information.
+- Farm Animals.
+- Organic Farming.
+- Inorganic Farming.
+- Modern Farming Technologies.
+
+Each card should open a dedicated information page.
+
+## G. AI chatbot section
+
+Add a chatbot preview section with the heading:
+
+"Have Questions? Ask Our Farmer Assistant"
+
+Description:
+
+"Get help understanding agricultural schemes, eligibility, documents, and farming information."
+
+Add a button:
+
+"Chat with Assistant"
+
+The chatbot must use verified project knowledge as its source. If it does not know an answer, it should say so instead of inventing information.
+
+## H. Footer
+
+Create a dark-green footer containing:
+- Project name and short description.
+- Quick links.
+- Government scheme links.
+- Agriculture information links.
+- Contact details.
+- Social media icons.
+- Copyright information.
+
+Mention that this is an independent educational information platform and is not an official government portal.
+
+# 5. USER AUTHENTICATION
+
+Create these pages:
+
+- Registration.
+- Login.
+- Forgot Password.
+- Logout.
+
+Registration fields:
+- Full Name.
+- Email.
+- Mobile Number.
+- Password.
+- Confirm Password.
+
+Use secure password hashing and proper validation.
+
+# 6. FARMER PROFILE
+
+After login, the farmer should complete a profile.
+
+Fields:
+- Full Name.
+- Age.
+- Gender (optional).
+- State.
+- District.
+- Village.
+- Farmer Category.
+- Land Holding.
+- Main Crop.
+- Irrigation Availability.
+- Farming Type.
+
+Save the information in PostgreSQL.
+
+Allow farmers to edit their profiles.
+
+Collect only information that is needed for the platform's features.
+
+# 7. FARMER DASHBOARD
+
+Create a personalized dashboard.
+
+Display:
+- Welcome message.
+- Farmer profile summary.
+- Recommended schemes.
+- Recently viewed schemes.
+- Scheme categories.
+- Quick eligibility checker.
+- Agriculture information shortcuts.
+- Chatbot access.
+
+Use a clean dashboard layout with a left sidebar on desktop and a responsive navigation layout on mobile.
+
+# 8. GOVERNMENT SCHEME MODULE
+
+Create a complete scheme listing page.
+
+Features:
+- Search schemes by name.
+- Filter by category.
+- Filter by state.
+- Filter by farmer category.
+- Sort schemes.
+- View scheme details.
+
+Scheme details page must include:
+- Scheme name.
+- Overview.
+- Objectives.
+- Benefits.
+- Eligibility criteria.
+- Required documents.
+- Application procedure.
+- Official application website.
+- Last verified date.
+
+Admin users should be able to add, edit, and delete scheme records.
+
+Do not present unverified information as fact.
+
+# 9. ELIGIBILITY CHECKER
+
+Create an eligibility checker.
+
+It should:
+1. Read the farmer's profile.
+2. Compare the profile with the stored scheme eligibility rules.
+3. Show a preliminary result.
+4. Explain why the farmer may or may not qualify.
+5. Display any missing information.
+
+Show clear messages such as:
+- "You may be eligible."
+- "You may not meet the listed criteria."
+- "More information is required."
+
+Important: This is only an informational preliminary assessment. Final eligibility is determined by the relevant government department.
+
+# 10. RECOMMENDATION SYSTEM
+
+Create a recommendation module that uses:
+- State.
+- District.
+- Farmer category.
+- Land holding.
+- Main crop.
+- Irrigation availability.
+- Farming type.
+
+Display relevant schemes based on available profile information.
+
+Explain why each scheme is recommended.
+
+Do not claim that a recommendation guarantees approval or benefits.
+
+# 11. AGRICULTURE INFORMATION MODULE
+
+Create separate pages for:
+
+**Crops**
+- Crop name.
+- Suitable climate.
+- Soil requirements.
+- Season.
+- Cultivation information.
+- Basic crop management.
+
+**Soils**
+- Soil types.
+- Soil characteristics.
+- Suitable crops.
+- Soil health information.
+
+**Farm Animals**
+- Cattle.
+- Buffalo.
+- Goat.
+- Sheep.
+- Poultry.
+
+**Organic Farming**
+- Introduction.
+- Organic manure.
+- Composting.
+- Natural farming practices.
+
+**Inorganic Farming**
+- Balanced fertilizer use.
+- Fertilizer categories.
+- Safe application guidance.
+
+**Modern Farming Technologies**
+- Drip irrigation.
+- Sprinkler irrigation.
+- Greenhouse farming.
+- Farm machinery.
+- Precision agriculture.
+
+Use suitable images and simple explanations.
+
+# 12. MULTILINGUAL SUPPORT
+
+Implement three languages:
+
+- English.
+- Hindi.
+- Kannada.
+
+Use i18next.
+
+Add a language selector in the navigation bar.
+
+When a user selects a language, translate the website's interface, navigation, buttons, headings, and available content.
+
+Do not simply change the language label while leaving all content untranslated.
+
+For government scheme details, use verified translations. If an official translation is unavailable, clearly indicate that the translation is provided for informational purposes.
+
+# 13. AI CHATBOT
+
+Create an AI chatbot that can answer questions about:
+- Government schemes.
+- Eligibility.
+- Scheme benefits.
+- Required documents.
+- Application procedures.
+- Crops.
+- Soil.
+- Farming methods.
+- Agricultural technologies.
+
+Requirements:
+- Chat interface with user and assistant messages.
+- Loading indicator.
+- Error handling.
+- Conversation history.
+- Backend API integration.
+- API key stored only in backend environment variables.
+- Use the project's verified knowledge base as context.
+
+Never expose API keys in frontend code.
+
+If an answer is not supported by the knowledge base, the chatbot must clearly say it cannot verify the information and direct the user to an official source.
+
+# 14. ADMIN DASHBOARD
+
+Create a protected admin dashboard.
+
+Admin features:
+- View registered farmers.
+- Add schemes.
+- Edit schemes.
+- Delete schemes.
+- Manage scheme categories.
+- Manage agriculture information.
+- Update official links.
+- Manage chatbot knowledge content.
+
+Use Django permissions and secure admin-only endpoints.
+
+# 15. DATABASE DESIGN
+
+Create appropriate PostgreSQL models for:
+
+- User
+- FarmerProfile
+- Scheme
+- SchemeCategory
+- EligibilityRule
+- RequiredDocument
+- ApplicationProcedure
+- Recommendation
+- Crop
+- Soil
+- FarmAnimal
+- FarmingMethod
+- FarmingTechnology
+- ChatConversation
+- ChatMessage
+
+Use proper relationships, constraints, and migrations.
+
+# 16. BACKEND API
+
+Create REST APIs for:
+
+Authentication:
+- POST /api/register/
+- POST /api/login/
+- POST /api/logout/
+
+Farmer:
+- GET /api/profile/
+- PUT /api/profile/
+
+Schemes:
+- GET /api/schemes/
+- GET /api/schemes/{id}/
+- POST /api/schemes/
+- PUT /api/schemes/{id}/
+- DELETE /api/schemes/{id}/
+
+Eligibility:
+- POST /api/eligibility/check/
+
+Recommendations:
+- GET /api/recommendations/
+
+Agriculture:
+- GET /api/crops/
+- GET /api/soils/
+- GET /api/animals/
+- GET /api/technologies/
+
+Chatbot:
+- POST /api/chatbot/message/
+
+Admin:
+- Create suitable protected endpoints for admin operations.
+
+Implement authentication, validation, permissions, and proper error responses.
+
+# 17. RESPONSIVE DESIGN
+
+The website must work correctly on:
+
+- 360px mobile.
+- 390px mobile.
+- 768px tablet.
+- 1024px laptop.
+- 1440px desktop.
+
+Requirements:
+- No horizontal scrolling.
+- Responsive header.
+- Mobile hamburger navigation.
+- Responsive hero slider.
+- Responsive cards.
+- Responsive forms and tables.
+- Readable typography.
+- Proper image scaling.
+- Accessible buttons and forms.
+
+The desktop layout should closely resemble the supplied screenshot. On mobile, reorganize the same design rather than shrinking the desktop layout.
+
+# 18. UI/UX REQUIREMENTS
+
+Follow these design rules throughout the website:
+
+- Professional agricultural theme.
+- Dark-green navigation.
+- White branding header.
+- Orange accent labels and buttons.
+- Large agricultural hero images.
+- Clean typography.
+- Consistent spacing.
+- Simple icons.
+- Clear headings.
+- Easy-to-read content.
+- Accessible color contrast.
+- Smooth but subtle interactions.
+
+Use reusable React components.
+
+Suggested components:
+- TopContactBar
+- MainHeader
+- ProjectLogo
+- Navbar
+- DropdownMenu
+- LanguageSelector
+- HeroSlider
+- SectionTitle
+- ServiceCard
+- SchemeCard
+- SchemeFilters
+- Footer
+- Chatbot
+- DashboardSidebar
+
+# 19. SECURITY AND QUALITY
+
+Implement:
+- Secure password hashing.
+- Authentication and authorization.
+- Input validation.
+- CSRF protection where applicable.
+- Safe environment variable handling.
+- API error handling.
+- Protection for admin routes.
+- Proper database relationships.
+- Basic automated tests.
+
+Do not store passwords as plain text.
+
+Do not expose private keys or credentials.
+
+# 20. PROJECT FOLDER STRUCTURE
+
+Keep the project organized.
+
+Suggested structure:
+
+```text
+farmer-scheme-platform/
+│
+├── frontend/
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       ├── pages/
+│       ├── layouts/
+│       ├── services/
+│       ├── translations/
+│       ├── styles/
+│       ├── App.jsx
+│       └── main.jsx
+│
+├── backend/
+│   ├── config/
+│   ├── accounts/
+│   ├── farmers/
+│   ├── schemes/
+│   ├── agriculture/
+│   ├── recommendations/
+│   ├── chatbot/
+│   ├── manage.py
+│   └── requirements.txt
+│
+├── README.md
+└── .gitignore
+```
+
+You may improve this structure when necessary.
+
+# 21. DEVELOPMENT PROCESS
+
+Build the project in the following phases:
+
+Phase 1: Project setup and folder structure.
+
+Phase 2: Frontend layout and reference-inspired homepage.
+
+Phase 3: Responsive header, navigation, and hero slider.
+
+Phase 4: Homepage sections and footer.
+
+Phase 5: Registration and login.
+
+Phase 6: Farmer profile and dashboard.
+
+Phase 7: Backend setup and PostgreSQL database.
+
+Phase 8: Government scheme module.
+
+Phase 9: Eligibility checker.
+
+Phase 10: Recommendation system.
+
+Phase 11: Agriculture information pages.
+
+Phase 12: English, Hindi, and Kannada translations.
+
+Phase 13: AI chatbot.
+
+Phase 14: Admin dashboard.
+
+Phase 15: Testing, bug fixing, and responsive checking.
+
+Phase 16: Documentation and deployment instructions.
+
+# 22. IMPORTANT INSTRUCTIONS FOR YOU
+
+I am a beginner, so explain everything clearly.
+
+Follow these rules:
+
+1. Start by analyzing the reference screenshot.
+2. First create the homepage design as closely as possible in structure and appearance.
+3. Use original project branding and agricultural images.
+4. Do not skip any required page or module.
+5. Provide complete code, not incomplete snippets.
+6. Always mention the exact file path before providing code.
+7. Provide all required installation commands.
+8. Explain where each file should be created.
+9. Explain how to run the frontend and backend.
+10. Fix errors before moving to the next phase.
+11. Do not use fake API responses as if they were real government data.
+12. Do not invent government scheme eligibility or benefit information.
+13. Clearly identify placeholder data.
+14. Keep the code clean and understandable.
+15. Make sure the website runs correctly before considering a phase complete.
+
+**MOST IMPORTANT DEVELOPMENT RULE:**
+
+Do not generate the entire project in one uncontrolled response.
+
+Start with Phase 1 and Phase 2, prioritizing a fully working frontend homepage that matches the reference screenshot.
+
+After completing those phases:
+- Show the folder structure.
+- Provide all created files with complete code.
+- Explain how to run the project.
+- Tell me what has been completed.
+- Ask for my confirmation before proceeding to the next phase.
+
+Continue phase by phase until the entire project is completed.
+
+**FINAL EXPECTATION:**
+
+The finished website should have the same professional visual feeling as the supplied reference screenshot: green contact bar, white bilingual branding header, dark-green navigation, and a large agricultural hero slider with a dark overlay and orange welcome label.
+
+It must also be a fully functional, responsive Farmer Scheme Assistance & Information Platform with frontend, backend, database, authentication, scheme information, eligibility checking, recommendations, multilingual support, agriculture information, and chatbot functionality.
